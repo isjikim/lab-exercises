@@ -74,4 +74,4 @@ combine_vectors <- function(vec_one, vec_two, vec_three) {
 # Send 3 vectors to your function to test it.
 combine_vectors(vec_one, vec_two, vec_three)
 # Write a function `caps_time` that takes in a vector of names of courses you're taking, ex "Informatics 201" and removes all capital letters
-
+hi
